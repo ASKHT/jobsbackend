@@ -10,7 +10,7 @@ Welcome to our Job Listing Platform! This platform serves as a comprehensive too
   - **Delete Job:** Remove job listings that are no longer active or relevant.
 - **Job Details:** Non-logged-in users can view detailed job listings, including job descriptions, requirements, and benefits.
 - **Filter and Search:** Under development, this feature will allow users to filter job listings based on various criteria and search for specific job titles or keywords.
-- **Apply Filters:** Both logged-in and non-logged-in users can apply filters to refine job searches based skills etc.
+- **Apply Filters:** Both logged-in and non-logged-in users can apply filters to refine job searches based on skills etc.
 
 
 ## Technologies Used
